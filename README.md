@@ -1,3 +1,21 @@
+Hi, I'm Sarah.
+---
+```javascript
+const sarah = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, PostgreSQL, jQuery],
+  tools: [React, Redux-Saga, Node, MUI, Bootstrap],
+  humanInterests: {
+                        films: [design, crafting, music],
+                        academic: [psychology, philosophy, history],
+                        misc: [film, food, nostalgia]
+                      },
+ quote: “Ideas of every kind are constantly galloping towards us, constantly passing through us, constantly trying to get our attention. Let them know you’re available. - Elizabeth Gilbert”
+
+"
+}
+```
+
 ###### Languages & Tools:
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&color=53A447)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&color=116157)
@@ -17,3 +35,5 @@
 ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white&color=F44A6D)
 ![Gimp](https://img.shields.io/badge/Gimp-5C5543?style=flat&logo=Gimp&logoColor=white&color=F8473E)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&color=8B2440)
+
+![snake gif](https://github.com/seprest1/seprest1/blob/output/github-contribution-grid-snake.svg)
