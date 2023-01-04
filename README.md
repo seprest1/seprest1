@@ -9,10 +9,10 @@ const sarah = {
   code: [Javascript, HTML, Css, Postgresql, Jquery],
   tools: [React, Redux-Saga, Node, MUI, Bootstrap],
   humanInterests: {
-                        films: [design, crafting, music],
-                        academic: [psychology, philosophy, history],
-                        misc: [film, food, nostalgia]
-                      },
+                    films: [design, crafting, music],
+                    academic: [psychology, philosophy, history],
+                    misc: [film, food, nostalgia]
+                          },
   quote: “Ideas of every kind are constantly galloping towards us, 
           constantly passing through us, constantly trying to get our attention. 
           Let them know you’re available. - elizabeth gilbert”
