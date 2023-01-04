@@ -7,7 +7,7 @@
 ```javascript
 const sarah = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, Css, Postgresql, Jquery],
+  code: [Javascript, HTML, CSS, PostgreSQl, jQuery],
   tools: [React, Redux-Saga, Node, MUI, Bootstrap],
   humanInterests: {
                     arts: [design, crafting, music],
