@@ -7,8 +7,8 @@
 ![Redux-Saga](https://img.shields.io/badge/Redux--Saga-999999?style=flat&logo=Redux&logoColor=white&color=F38BAE)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=ReactRouter&logoColor=white&color=F44A6D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white&color=F8473E)
-![Npm](https://img.shields.io/badge/Npm-CB3837?style=flat&logo=Npm&logoColor=white&color=8B2440)
 <br>
+![Npm](https://img.shields.io/badge/Npm-CB3837?style=flat&logo=Npm&logoColor=white&color=8B2440)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white&color=53A447)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white&color=116157)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=MUI&logoColor=white&color=2C3962)
