@@ -1,18 +1,21 @@
-Hi, I'm Sarah.
----
+
+  <h2>Hi, I'm Sarah.</h2> 
+
+<img align="right" src="https://media2.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif?cid=790b761140f53b8b9b6f4459440754ef3295adb88b7453cd&rid=giphy.gif&ct=s" width="200">
+
 ```javascript
 const sarah = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, PostgreSQL, jQuery],
+  code: [Javascript, HTML, Css, Postgresql, Jquery],
   tools: [React, Redux-Saga, Node, MUI, Bootstrap],
   humanInterests: {
                         films: [design, crafting, music],
                         academic: [psychology, philosophy, history],
                         misc: [film, food, nostalgia]
                       },
- quote: “Ideas of every kind are constantly galloping towards us, constantly passing through us, constantly trying to get our attention. Let them know you’re available. - Elizabeth Gilbert”
-
-"
+  quote: “Ideas of every kind are constantly galloping towards us, 
+          constantly passing through us, constantly trying to get our attention. 
+          Let them know you’re available. - elizabeth gilbert”
 }
 ```
 
