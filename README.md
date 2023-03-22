@@ -1,6 +1,6 @@
 
 <h2>Hi, I'm Sarah<img src="https://media1.giphy.com/media/6cyetttpTEhNqTJ8ZL/giphy.gif?cid=790b76114fcdfe76e99ba7843ecb8f34c8880cc079747d03&rid=giphy.gif&ct=s)" width="70"> </h2> 
-<p><em>Blossoming code-gardener looking for her first gig. 🌱</em></p>
+<p><em>Blossoming code-gardener 🌱</em></p>
 
 <img align="right" src="https://media2.giphy.com/media/H68qSZkEG9qw39YvRD/giphy.gif?cid=790b761140f53b8b9b6f4459440754ef3295adb88b7453cd&rid=giphy.gif&ct=s" width="200">
 
